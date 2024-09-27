@@ -1,8 +1,8 @@
 # Pedro Kaneko
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrokaneko)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pedrokaneko.ds@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/pedrokaneko)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrokaneko)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pedrokaneko.ds@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/pedrokaneko)
 
 ### Cientista de Dados | Analista de Dados
 
