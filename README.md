@@ -74,3 +74,9 @@ Como profissional, mantenho foco em consistência, estrutura e entrega de valor 
   <img src="https://komarev.com/ghpvc/?username=pedrokaneko&label=visitas+no+perfil&color=0e75b6&style=flat" alt="visitas no perfil" />
 </p>
 
+## Créditos
+
+Este README utiliza elementos visuais derivados de um **[template](https://www.figma.com/community/file/1388963046858584588)** disponibilizado na Figma Community sob a licença **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
+Design original por **@renatusmanov**.
+
+---
